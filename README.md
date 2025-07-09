@@ -27,15 +27,9 @@
 
 ✅ Interfaz gráfica intuitiva (Zenity)
 
-✅ Detección precisa mediante hash MD5
-
 ✅ Sistema de copias de seguridad automático
 
-✅ Reportes HTML con detalles completos
-
 ✅ Múltiples modos de eliminación: selectivo o masivo
-
-✅ Progreso visual durante operaciones largas
 
 ✅ Protección contra eliminaciones accidentales
 
