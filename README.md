@@ -41,21 +41,19 @@
 
 ---
 
-## 🚀 Instalación
+## 🚀 Requisitos del Sistema
 
 ```bash
-# Clonar el repositorio
-git clone https://github.com/BenaviDev/Repositorios_Bash.git
-cd Repositorios_Bash
+# sistema operativo: Linux (probado en Ubuntu, Linux Mint)
 
 ```
 
 ---
 
-## 🛠 Uso
+## 🛠 Dependencias
 
 ```bash
-python osint_scraper.py -d ejemplo.com
+sudo apt install zenity coreutils
 ```
 
 Ejemplo de ejecución:
