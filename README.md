@@ -86,13 +86,17 @@ Todos los tipos: documentos, imágenes, videos, ejecutables, etc.
 
 ❓ ¿Puedo recuperar archivos eliminados?
 Sí, todos los archivos "eliminados" se guardan en:
+
+~/DuplicateBackups/backup_[FECHA]/
+
 ```
 ---
+## 🔥 ¡Las contribuciones son bienvenidas!
 
 ## 🔥 Autor y Contacto
 
 👤 **Santiago Benavidez Ramirez 2025**  
 
-📺 TikTok: [HackeandoPatos](https://www.tiktok.com/@hackeadopatos)  
+📺 YOUTUBE: [HackeandoPatos](https://www.youtube.com/@HackeandoPatos)  
 
-**Si te gustó el proyecto, dale una estrella ⭐ en GitHub!** 🚀
+**Si te gustó el proyecto, dale una estrella ⭐ en GitHub! o sigueme en mi canal de youtube, tengo planeado subir un video en donde se muestra el funcionamiento del script** 🚀
