@@ -70,16 +70,20 @@ chmod +x gestor_duplicados_gui.sh
 
 ```
 
-## 🛠 Estructura del archivo
+## 🛠 POR SI TIENES DUDAS...
 
-```bash
-gestor-duplicados/
-├── gestor_duplicados_gui.sh       # Script principal
-├── README.md                      # Documentación
-├── screenshots/                   # Capturas de pantalla
-├── DuplicateBackups/              # Copias de seguridad automáticas
-└── DuplicateReports/              # Reportes generados
-```
+❓ ¿Es seguro eliminar los duplicados?
+Sí, porque:
+Siempre se crean copias de seguridad
+
+Requiere confirmación explícita
+Los archivos se mueven, no se borran permanentemente
+
+❓ ¿Qué tipos de archivos detecta?
+Todos los tipos: documentos, imágenes, videos, ejecutables, etc.
+
+❓ ¿Puedo recuperar archivos eliminados?
+Sí, todos los archivos "eliminados" se guardan en:
 
 ---
 
