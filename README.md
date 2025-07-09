@@ -72,6 +72,8 @@ chmod +x gestor_duplicados_gui.sh
 
 ## 🛠 POR SI TIENES DUDAS...
 
+```bash
+
 ❓ ¿Es seguro eliminar los duplicados?
 Sí, porque:
 Siempre se crean copias de seguridad
@@ -84,7 +86,7 @@ Todos los tipos: documentos, imágenes, videos, ejecutables, etc.
 
 ❓ ¿Puedo recuperar archivos eliminados?
 Sí, todos los archivos "eliminados" se guardan en:
-
+```
 ---
 
 ## 🔥 Autor y Contacto
