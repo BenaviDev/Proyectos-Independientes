@@ -56,9 +56,29 @@
 sudo apt install zenity coreutils
 ```
 
-Ejemplo de ejecución:
+Instalación y Uso:
 ```bash
-./osintv2.0 -d ejemplo.com 
+
+git clone https://github.com/tuusuario/gestor-duplicados.git(https://github.com/BenaviDev/Proyectos-Independientes.git)
+cd Proyectos-Independientes
+./duplicate.sh
+```
+Hacerlo ejecutable en caso de pedir permisos:
+```bash
+
+chmod +x gestor_duplicados_gui.sh
+
+```
+
+## 🛠 Estructura del archivo
+
+```bash
+gestor-duplicados/
+├── gestor_duplicados_gui.sh       # Script principal
+├── README.md                      # Documentación
+├── screenshots/                   # Capturas de pantalla
+├── DuplicateBackups/              # Copias de seguridad automáticas
+└── DuplicateReports/              # Reportes generados
 ```
 
 ---
