@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Gestor de Archivos Duplicados con Interfaz Gráfica<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-  <h3>🕵️‍♂️ El Gestor de Archivos Duplicados es una herramienta diseñada para ayudarte a recuperar espacio en disco identificando y gestionando archivos duplicados en tu sistema Linux. Con una interfaz gráfica intuitiva basada en Zenity, esta herramienta te permite:🕵️‍♂️</h3>
+  <h3>🕵️‍♂️ El Gestor de Archivos Duplicados es una herramienta diseñada para ayudarte a recuperar espacio en disco identificando y gestionando archivos duplicados en tu sistema Linux. Con una interfaz gráfica intuitiva basada en Zenity🕵️‍♂️</h3>
   
   <div>
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
@@ -14,7 +14,8 @@
 
 ---
 
-## 🔍 Buscar carpetas con archivos duplicados
+## CARACTERISTICAS
+🔍 Buscar carpetas con archivos duplicados
 
 📊 Analizar y visualizar duplicados
 
@@ -24,14 +25,18 @@
 
 ⚡ Realizar limpiezas masivas con copias de seguridad automática
 
-
-Características Principales
 ✅ Interfaz gráfica intuitiva (Zenity)
+
 ✅ Detección precisa mediante hash MD5
+
 ✅ Sistema de copias de seguridad automático
+
 ✅ Reportes HTML con detalles completos
+
 ✅ Múltiples modos de eliminación: selectivo o masivo
+
 ✅ Progreso visual durante operaciones largas
+
 ✅ Protección contra eliminaciones accidentales
 
 ---
